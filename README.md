@@ -21,5 +21,5 @@ The last step to start the server is to run
 
 This will open the application in your browser at [localhost:8080](http://localhost:8080/)
 
-To add components, create a **_.js_** file and add it to the components folder. Import the component into **_App.js_**. If you have any assets, place those in the assets folder.
+To add components, create a components folder and add **_.js_** files. Import the components into **_App.js_**. If you have any assets, place those in the assets folder.
 
